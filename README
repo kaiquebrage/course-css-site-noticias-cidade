@@ -1,34 +1,37 @@
-# 📰 Notícias Cidade - **PROJETO EM ANDAMENTO**
+# 📰 Notícias Cidade
 
-Projeto desenvolvido durante o curso **Desenvolvimento Web Completo**.
+> **Projeto em andamento** desenvolvido durante o curso **Desenvolvimento Web Completo**.
 
-O objetivo deste projeto foi praticar a construção de um portal de notícias utilizando apenas **HTML5** e **CSS3**, reforçando conceitos fundamentais de estruturação de páginas, posicionamento de elementos e estilização.
+O **Notícias Cidade** é um portal de notícias fictício criado com o objetivo de praticar os fundamentos do desenvolvimento front-end utilizando apenas **HTML5** e **CSS3**.
+
+O projeto simula a estrutura de um portal de notícias, contendo diversas categorias, menu de navegação, áreas para destaques, notícias secundárias e formulário de cadastro, aplicando conceitos importantes de organização de layout e estilização sem o uso de frameworks ou bibliotecas.
 
 ---
 
 ## 🚀 Tecnologias utilizadas
 
-- HTML5
-- CSS3
+* HTML5
+* CSS3
 
 ---
 
 ## 📚 Conceitos praticados
 
-Durante o desenvolvimento deste projeto foram aplicados conceitos como:
+Durante o desenvolvimento deste projeto foram aplicados os seguintes conceitos:
 
-- Estrutura semântica em HTML
-- Organização de conteúdo com `<div>`, listas e links
-- Menus de navegação horizontais
-- Posicionamento com `float`
-- Centralização de layouts
-- Backgrounds e imagens decorativas
-- Pseudo-classes (`:hover`)
-- Seletores CSS
-- Estilização de menus ativos
-- Reset de estilos
-- Organização de layout em múltiplas colunas 
-- Form, input e label.
+* Estrutura semântica em HTML5
+* Organização de conteúdo utilizando `<div>`, listas e links
+* Criação de menus de navegação horizontais
+* Layout baseado em múltiplas colunas
+* Posicionamento de elementos com `float`
+* Centralização de layouts
+* Utilização de imagens e backgrounds decorativos
+* Pseudo-classes (`:hover`)
+* Seletores CSS
+* Destaque para páginas ativas no menu
+* Reset de estilos
+* Estilização de formulários (`form`, `label` e `input`)
+* Organização do código CSS
 
 ---
 
@@ -38,6 +41,8 @@ Durante o desenvolvimento deste projeto foram aplicados conceitos como:
 noticias-cidade/
 │
 ├── img/
+│   └── ...
+│
 ├── index.html
 ├── brasil.html
 ├── economia.html
@@ -45,6 +50,57 @@ noticias-cidade/
 ├── ciencia.html
 ├── saude.html
 ├── fotos.html
+│
 └── style.css
 ```
+
 ---
+
+## ✨ Funcionalidades
+
+* Página inicial do portal
+* Menu de navegação entre categorias
+* Destaques de notícias
+* Notícias secundárias
+* Área lateral com conteúdos adicionais
+* Formulário para cadastro de e-mail
+* Layout fixo centralizado
+* Destaque visual para o menu da página atual
+
+---
+
+## 🎯 Objetivo do projeto
+
+Este projeto foi desenvolvido com fins de estudo para reforçar conhecimentos em HTML e CSS, colocando em prática conceitos fundamentais de construção de layouts antes da utilização de tecnologias mais avançadas, como JavaScript e frameworks front-end.
+
+---
+
+## 📖 Aprendizados
+
+Durante o desenvolvimento deste projeto foi possível compreender melhor:
+
+* Estruturação semântica de páginas web;
+* Separação entre conteúdo e apresentação;
+* Organização de layouts utilizando CSS;
+* Importância da reutilização de estilos;
+* Criação de interfaces utilizando apenas HTML e CSS.
+
+---
+
+## 📌 Status
+
+🚧 **Projeto em andamento**
+
+Novas melhorias poderão ser implementadas futuramente, como:
+
+* Responsividade para dispositivos móveis;
+* Layout utilizando Flexbox e Grid;
+* Melhor organização do CSS;
+* Animações e transições;
+* Integração com JavaScript.
+
+---
+
+## 👨‍💻 Autor
+
+Desenvolvido como parte dos estudos do curso **Desenvolvimento Web Completo**, com foco no aprimoramento das habilidades em HTML5 e CSS3.
