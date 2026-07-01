@@ -68,14 +68,7 @@ noticias-cidade/
 * Destaque visual para o menu da página atual
 
 ---
-
-## 🎯 Objetivo do projeto
-
-Este projeto foi desenvolvido com fins de estudo para reforçar conhecimentos em HTML e CSS, colocando em prática conceitos fundamentais de construção de layouts antes da utilização de tecnologias mais avançadas, como JavaScript e frameworks front-end.
-
----
-
-## 📖 Aprendizados
+## Aprendizados
 
 Durante o desenvolvimento deste projeto foi possível compreender melhor:
 
@@ -86,21 +79,6 @@ Durante o desenvolvimento deste projeto foi possível compreender melhor:
 * Criação de interfaces utilizando apenas HTML e CSS.
 
 ---
-
-## 📌 Status
-
-🚧 **Projeto em andamento**
-
-Novas melhorias poderão ser implementadas futuramente, como:
-
-* Responsividade para dispositivos móveis;
-* Layout utilizando Flexbox e Grid;
-* Melhor organização do CSS;
-* Animações e transições;
-* Integração com JavaScript.
-
----
-
 ## 👨‍💻 Autor
 
 Desenvolvido como parte dos estudos do curso **Desenvolvimento Web Completo**, com foco no aprimoramento das habilidades em HTML5 e CSS3.
