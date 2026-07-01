@@ -1,0 +1,57 @@
+# 📰 Notícias Cidade - **PROJETO EM ANDAMENTO**
+
+Projeto desenvolvido durante o curso **Desenvolvimento Web Completo**.
+
+O objetivo deste projeto foi praticar a construção de um portal de notícias utilizando apenas **HTML5** e **CSS3**, reforçando conceitos fundamentais de estruturação de páginas, posicionamento de elementos e estilização.
+
+---
+
+## 🚀 Tecnologias utilizadas
+
+- HTML5
+- CSS3
+
+---
+
+## 📚 Conceitos praticados
+
+Durante o desenvolvimento deste projeto foram aplicados conceitos como:
+
+- Estrutura semântica em HTML
+- Organização de conteúdo com `<div>`, listas e links
+- Menus de navegação horizontais
+- Posicionamento com `float`
+- Centralização de layouts
+- Backgrounds e imagens decorativas
+- Pseudo-classes (`:hover`)
+- Seletores CSS
+- Estilização de menus ativos
+- Reset de estilos
+- Organização de layout em múltiplas colunas 
+- Form, input e label.
+
+---
+
+## 📂 Estrutura do projeto
+
+```text
+noticias-cidade/
+│
+├── img/
+├── index.html
+├── brasil.html
+├── economia.html
+├── internacional.html
+├── ciencia.html
+├── saude.html
+├── fotos.html
+└── style.css
+```
+---
+
+## 👨‍💻 Autor
+
+**Kaique Bragé**
+
+- GitHub: https://github.com/SEU-USUARIO
+- LinkedIn: https://linkedin.com/in/SEU-LINKEDIN
