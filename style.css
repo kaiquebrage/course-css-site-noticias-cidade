@@ -6,7 +6,7 @@
 }
 
 body {
-    font-family: "Trebuchet MS, Helvetica, sans-serif";
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
     background: #fff url(img/fundo.png) repeat-x;
 }
 
@@ -47,7 +47,7 @@ ul {
 #topo ul a {
     font-size: 0.9em;
     display: block;
-    padding: 0.5em 1.5em;
+    padding: 0.5em 0.8em;
     line-height: 2.1em;
     text-decoration: none;
     color: white;
@@ -55,7 +55,7 @@ ul {
 
 }
 
-#topo .primeiro a {
+#topo ul .primeiro a {
     background: none;
 }
 
@@ -97,13 +97,67 @@ body.internacional #navegacao a#internacional , body.fotos #navegacao a#fotos {
     width: 180px;
     float: left;
     margin: 0 0 20px -750px;
-    background: blueviolet;
+}
+
+#lateral ul a {
+    display: block;
+    padding: 3px;
+    text-decoration: none;
+    color: #000;
+    font-size: 0.8em;
+    line-height: 30px;
+    border-bottom: 1px solid #f3f3f3;
+
+}
+
+#lateral ul a:hover {
+    background: #f9f9f9 url(img/marcador.png) no-repeat left center;
+    color: #a1a1a1;
+    padding-left: 20px;
+}
+
+#label {
+    display: block;
+    cursor: pointer;
+}
+
+input {
+    font-size: 0.8em;
+    background-color: #fff;
+    padding: 5px;
+    width: 125px;
+}
+
+input.submit {
+    width: 80px;
+    background: #b10333;
+    color: #fff;
+    border: 2px solid #870529;
 }
 
 #container-rodape {
     clear: both;
     background: #294c71;
     padding: 20px;
+}
+
+.caixa{
+    background: #f3f3f3 url(img/fundo-caixa.png);
+    margin: 10px 0;
+    padding: 5px;
+}
+
+h2 {
+    font-size: 1em;
+    background: #294c71;
+    color: #fff;
+    padding: 5px;
+}
+
+.caixa-conteudo {
+    padding: 5px;
+    background: #fff;
+    margin-top: 5px;
 }
 
 #rodape {
